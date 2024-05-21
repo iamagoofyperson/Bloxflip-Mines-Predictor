@@ -1,1 +1,5 @@
 this is a bloxflip mines predictor in a discord ot, this is beta so none of this is gonna be 100% acurate
+first, download python and then open cmd and type: pip install discord.py then add a discord bot to your server, after that download main.py.
+next, get your discord token and paste it into the code in visual studio and save it and run it
+then type in the discord chat "!predict (game_code) (amount of bombs)"
+then ur done
